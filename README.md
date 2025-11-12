@@ -1,16 +1,48 @@
-# future
+# Projeto Future Bitcoin Price
 
-A new Flutter project.
+Este é um aplicativo Flutter simples que exibe o preço atual do Bitcoin em reais (BRL), obtido via API da blockchain.info.
 
-## Getting Started
+## 🚀 Começando
 
-This project is a starting point for a Flutter application.
+Estas instruções vão te ajudar a rodar uma cópia do projeto localmente para desenvolvimento e testes.
 
-A few resources to get you started if this is your first Flutter project:
+### 📋 Pré-requisitos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install) instalado em sua máquina
+- [Git](https://git-scm.com/) para versionamento
+- Uma conta no [GitHub](https://github.com/) para clonar o repositório
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ▶️ Instalação
+
+git clone https://github.com/elielrj/future.git
+cd future
+flutter pub get
+flutter run
+
+
+## 🛠️ Tecnologias Utilizadas
+
+- Flutter
+- Dart
+- HTTP (package)
+- blockchain.info API
+
+## 💡 Funcionalidades
+
+- Consulta do preço do Bitcoin em BRL
+- Interface responsiva e simples
+- Atualização de dados ao abrir o app
+
+## 📝 Autor
+
+- Nome: Seu Nome
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
+- GitHub: [Seu GitHub](https://github.com/seuusuario)
+
+## 📄 Licença
+
+Este projeto está sob licença MIT.
+
+---
+
+Sinta-se livre para contribuir, sugerir melhorias ou customizar!
